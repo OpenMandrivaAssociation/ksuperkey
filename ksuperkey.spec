@@ -1,7 +1,7 @@
 Name:		ksuperkey
 Summary:	A service to an open application launcher in KDE with Super key
 Version:	0.3
-Release:	1
+Release:	2
 Group:		Graphical desktop/KDE
 License:	GPLv3+
 # And also https://github.com/hanschen/ksuperkey
