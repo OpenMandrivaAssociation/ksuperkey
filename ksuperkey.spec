@@ -5,7 +5,7 @@ Release:	2
 Group:		Graphical desktop/KDE
 License:	GPLv3+
 # And also https://github.com/hanschen/ksuperkey
-Url:		http://kde-apps.org/content/show.php/ksuperkey?content=154569
+Url:		https://kde-apps.org/content/show.php/ksuperkey?content=154569
 Source:		http://kde-apps.org/CONTENT/content-files/154569-%{name}-%{version}.tar.gz
 BuildRequires:	kde4-macros
 BuildRequires:	pkgconfig(x11)
